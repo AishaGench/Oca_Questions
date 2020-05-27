@@ -1,4 +1,4 @@
-package Q61_Q72.Q69;
+package Q_69;
 
 public class Employee {
     private String name;
@@ -27,7 +27,7 @@ public class Employee {
 }
 class Test{
     public static void main(String[] args) {
-       //Employee e1 = new Employee(); we need to create constructer
+       //Employee e1 = new Employee(); we need to create constructor
         Employee e2 = new Employee("Jack", 50);
         Employee e3 = new Employee("Chloe", 40, 5000);
 //
@@ -37,4 +37,4 @@ class Test{
     }
 
 }
-//cevap A: Compilation fails in the Employee class
+//AnswerA: Compilation fails in the Employee class

@@ -10,4 +10,9 @@ public class WhichStatementWillEmpty {
 
         Answer: C
      */
+    public static void main(String[] args) {
+        StringBuilder sb = new StringBuilder("hello");
+        sb.delete(0,sb.length()); //--> deletes the string
+        System.out.println(sb);
+    }
 }

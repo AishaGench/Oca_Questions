@@ -1,8 +1,9 @@
-package Q61_Q72.Q72;
+package Q_72;
 
 public class FieldInit {
     // What is the result?
-    Character c;
+    Character c;  //if it is Character it gives us null because it is wrapper class
+    //   char c; //if it is char it gives empty
     boolean b;
     float f;
     void printAll(){
@@ -16,7 +17,7 @@ public class FieldInit {
         f.printAll();
     }
 
-    //cevap : c = null
+    //Answer : c = null
     //        b = false
     //        f = 0.0
 }

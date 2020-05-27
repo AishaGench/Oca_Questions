@@ -1,4 +1,4 @@
-package Q61_Q72.Q68;
+package Q_68;
 
 public class SumTest {
     public static void doSum(Integer x, Integer y) {
@@ -19,5 +19,5 @@ public class SumTest {
         doSum(10.0, 20.0);
     }
 }
-//cevap B: int sum is 30
+//Answer B: int sum is 30
 //         double sum is 30.0

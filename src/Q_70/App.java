@@ -1,4 +1,4 @@
-package Q61_Q72.Q70;
+package Q_70;
 
 public class App {
     public static void main(String[] args) {

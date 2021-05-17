@@ -17,3 +17,13 @@ public class Test {
         }
     }
 }
+/*
+What is the result?
+A. 10 20 30 40
+B. 0 0 30 40
+C. Compilation fails.
+D. An exception is throw at runtime.
+
+ Answer : B
+
+ */
